@@ -1,4 +1,5 @@
-Данная программа является демонстрационным прототипом АРМ для специалиста контакт-центра. <br>Производит учет мед. учреждений, врачей, мед. услуг, лекарственных препаратов и их фармакологических форм.</br>
+Данная программа является демонстрационным прототипом АРМ для специалиста контакт-центра.
+Производит учет мед. учреждений, врачей, мед. услуг, лекарственных препаратов и их фармакологических форм.
 Является минимально работоспособным продуктом для просмотра возможностей и путей улучшения работы Desktop-приложений с MSSQL Server или LocalDB.
 Классы не обеспечивает защиту данных и требуют переработки, так же есть места для исправления в схеме БД.
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/31758b72-e627-4472-8fae-72b590231863)
@@ -8,6 +9,12 @@
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/1202aa50-eb83-445a-a076-f30e41dcc822)
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/f9e6a201-b9cc-4664-ad86-d926c1814c18)
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/3aef4bf6-0eec-4f25-9b1d-2f188f86bd7f)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/c867e426-7af2-42e8-a1e2-096d0f66e243)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/9aaf1483-7f25-434f-9d96-c8380f7c521a)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/2647bd26-5e51-449f-9c11-ea4d6db04012)
+
+
+
 
 
 
