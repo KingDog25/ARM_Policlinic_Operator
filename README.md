@@ -10,8 +10,14 @@
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/f9e6a201-b9cc-4664-ad86-d926c1814c18)
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/3aef4bf6-0eec-4f25-9b1d-2f188f86bd7f)
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/c867e426-7af2-42e8-a1e2-096d0f66e243)
-![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/9aaf1483-7f25-434f-9d96-c8380f7c521a)
 ![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/2647bd26-5e51-449f-9c11-ea4d6db04012)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/9aaf1483-7f25-434f-9d96-c8380f7c521a)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/b72b6f4a-cc11-4801-ae0f-8d184299ef7a)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/365dad48-aecc-4918-9550-04fcd5810260)
+![image](https://github.com/KingDog25/ARM_Policlinic_Operator/assets/99288384/b77bdc62-e55a-47df-8483-d15cb175e08d)
+
+
+
 
 
 
